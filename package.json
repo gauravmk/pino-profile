@@ -1,0 +1,14 @@
+{
+  "name": "pino-profile",
+  "version": "0.0.1",
+  "description": "A module to allow using pino to profile bits of code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gaurav Kulkarni <gaurav@gauravkulkarni.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
