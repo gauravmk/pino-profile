@@ -2,7 +2,7 @@
   "name": "pino-profile",
   "version": "0.0.1",
   "description": "A module to allow using pino to profile bits of code",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
