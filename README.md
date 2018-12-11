@@ -39,7 +39,7 @@ module.exports = {
 const { slowFn, asyncFn } = require('./lib');
 
 // will log the time the function took in ms
-const res = slowFn(arg1, arg2); .
+const res = slowFn(arg1, arg2);
 
 // Here we'll log the amount of time it took for the promise to resolve
 // as opposed to the trivial amount of time it took for the function to complete
